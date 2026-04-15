@@ -1,5 +1,4 @@
-# powerbi-ecommerce-sales-dashboard
-Power BI e-commerce sales dashboard analyzing sales, profit, quantity, shipping cost, market performance, category trends, ship modes, and regional insights.
+
 # Power BI E-Commerce Sales Dashboard
 
 This project is an interactive **Power BI dashboard** built to analyze e-commerce business performance across different countries, states, markets, categories, and shipping modes.
